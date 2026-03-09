@@ -1,5 +1,7 @@
-data
-dataset
-models
+__pycache__/
+.venv/
+data/
+dataset/
+models/
 worksheets.json
 error_log.txt
